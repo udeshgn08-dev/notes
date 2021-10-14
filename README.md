@@ -1,2 +1,2 @@
 # notes
-technical notes
+Type -- > Technical notes
